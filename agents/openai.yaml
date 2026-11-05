@@ -1,0 +1,4 @@
+interface:
+  display_name: "Solon+ SEO MASTER — Google, Bing e IA"
+  short_description: "Global SEO/GEO audits, repairs and evergreen publishing"
+  default_prompt: "Use $solon-seo-master to audit my website, report prioritized findings, execute authorized fixes, and publish useful evergreen content within the agreed scope."
